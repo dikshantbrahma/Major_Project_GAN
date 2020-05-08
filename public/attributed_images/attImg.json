@@ -1,0 +1,122 @@
+[
+  {
+    "key":"1",
+    "text":"Beige Colour", 
+    "value":"beige" ,
+    "imgsrc":"beige 3.jpg"
+  },
+  {
+    "key":"2",
+    "text":"Blue Colour", 
+    "value":"blue" ,
+    "imgsrc":"blue 3.jpg"
+  },
+  {
+    "key":"3",
+    "text":"Camel Colour", 
+    "value":"camel" ,
+    "imgsrc":"camel 3.jpg"
+  },
+  {
+    "key":"4",
+    "text":"Cyan Colour", 
+    "value":"cyan" ,
+    "imgsrc":"cyan 3.jpg"
+  },
+  {
+    "key":"5",
+    "text":"Apricot Colour", 
+    "value":"apricot" ,
+    "imgsrc":"apricot 3.jpg"
+  },
+  {
+    "key":"6",
+    "text":"Green Colour", 
+    "value":"green" ,
+    "imgsrc":"green 3.jpg"
+  },
+  {
+    "key":"7",
+    "text":"Middle Length SLeeve", 
+    "value":"middle" ,
+    "imgsrc":"middle 3.jpg"
+  },
+  {
+    "key":"8",
+    "text":"Pink Colour", 
+    "value":"pink" ,
+    "imgsrc":"pink 3.jpg"
+  },
+  {
+    "key":"9",
+    "text":"Red Colour", 
+    "value":"red" ,
+    "imgsrc":"red 3.jpg"
+  },
+  {
+    "key":"10",
+    "text":"Shoulder Length Sleeve", 
+    "value":"shoulder" ,
+    "imgsrc":"shoulder 3.jpg"
+  },
+  {
+    "key":"11",
+    "text":"White Colour", 
+    "value":"white" ,
+    "imgsrc":"white 3.jpg"
+  },
+  {
+    "key":"12",
+    "text":"Yellow Colour", 
+    "value":"yellow" ,
+    "imgsrc":"yellow 3.jpg"
+  },
+  {
+    "key":"13",
+    "text":"Brown Colour", 
+    "value":"brown" ,
+    "imgsrc":"brown 3.jpg"
+  },
+  {
+    "key":"1",
+    "text":"Coffee Colour", 
+    "value":"coffee" ,
+    "imgsrc":"coffee 3.jpg"
+  },
+  {
+    "key":"15",
+    "text":"Gray Colour", 
+    "value":"gray" ,
+    "imgsrc":"gray 3.jpg"
+  },
+  {
+    "key":"16",
+    "text":"Long Sleeve", 
+    "value":"long" ,
+    "imgsrc":"long 3.jpg"
+  },
+  {
+    "key":"17",
+    "text":"Orange Colour", 
+    "value":"orange" ,
+    "imgsrc":"orange 3.jpg"
+  },
+  {
+    "key":"18",
+    "text":"Purple Colour", 
+    "value":"purple" ,
+    "imgsrc":"purple 3.jpg"
+  },
+  {
+    "key":"19",
+    "text":"Short Sleeve", 
+    "value":"short" ,
+    "imgsrc":"short 3.jpg"
+  },
+  {
+    "key":"20",
+    "text":"Sleeveless", 
+    "value":"sleeveless" ,
+    "imgsrc":"sleeveless 3.jpg"
+  }
+]

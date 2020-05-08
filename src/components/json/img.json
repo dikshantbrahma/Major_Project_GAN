@@ -1,0 +1,1316 @@
+[
+  {
+    "key": 1,
+    "imgsrc": "Epoch_1.jpg,",
+    "text": "Image 1",
+    "value": "Image 1"
+  },
+  {
+    "key": 2,
+    "imgsrc": "Epoch_2.jpg",
+    "text": "Image 2",
+    "value": "Image 2"
+  },
+  {
+    "key": 3,
+    "imgsrc": "Epoch_3.jpg",
+    "text": "Image 3",
+    "value": "Image 3"
+  },
+  {
+    "key": 4,
+    "imgsrc": "Epoch_4.jpg",
+    "text": "Image 4",
+    "value": "Image 4"
+  },
+  {
+    "key": 5,
+    "imgsrc": "Epoch_5.jpg",
+    "text": "Image 5",
+    "value": "Image 5"
+  },
+  {
+    "key": 6,
+    "imgsrc": "Epoch_6.jpg",
+    "text": "Image 6",
+    "value": "Image 6"
+  },
+  {
+    "key": 7,
+    "imgsrc": "Epoch_7_56of72.jpg",
+    "text": "Image 7",
+    "value": "Image 7"
+  },
+  {
+    "key": 8,
+    "imgsrc": "Epoch_8_54of72.jpg",
+    "text": "Image 8",
+    "value": "Image 8"
+  },
+  {
+    "key": 9,
+    "imgsrc": "Epoch_9_52of72.jpg",
+    "text": "Image 9",
+    "value": "Image 9"
+  },
+  {
+    "key": 10,
+    "imgsrc": "Epoch_10_50of72.jpg",
+    "text": "Image 10",
+    "value": "Image 10"
+  },
+  {
+    "key": 11,
+    "imgsrc": "Epoch_11_48of72.jpg",
+    "text": "Image 11",
+    "value": "Image 11"
+  },
+  {
+    "key": 12,
+    "imgsrc": "Epoch_12_46of72.jpg",
+    "text": "Image 12",
+    "value": "Image 12"
+  },
+  {
+    "key": 13,
+    "imgsrc": "Epoch_13_44of72.jpg",
+    "text": "Image 13",
+    "value": "Image 13"
+  },
+  {
+    "key": 14,
+    "imgsrc": "Epoch_14_42of72.jpg",
+    "text": "Image 14",
+    "value": "Image 14"
+  },
+  {
+    "key": 15,
+    "imgsrc": "Epoch_15_40of72.jpg",
+    "text": "Image 15",
+    "value": "Image 15"
+  },
+  {
+    "key": 16,
+    "imgsrc": "Epoch_16_38of72.jpg",
+    "text": "Image 16",
+    "value": "Image 16"
+  },
+  {
+    "key": 17,
+    "imgsrc": "Epoch_17_36of72.jpg",
+    "text": "Image 17",
+    "value": "Image 17"
+  },
+  {
+    "key": 18,
+    "imgsrc": "Epoch_18_34of72.jpg",
+    "text": "Image 18",
+    "value": "Image 18"
+  },
+  {
+    "key": 19,
+    "imgsrc": "Epoch_19_32of72.jpg",
+    "text": "Image 19",
+    "value": "Image 19"
+  },
+  {
+    "key": 20,
+    "imgsrc": "Epoch_20_30of72.jpg",
+    "text": "Image 20",
+    "value": "Image 20"
+  },
+  {
+    "key": 21,
+    "imgsrc": "Epoch_21_28of72.jpg",
+    "text": "Image 21",
+    "value": "Image 21"
+  },
+  {
+    "key": 22,
+    "imgsrc": "Epoch_22_26of72.jpg",
+    "text": "Image 22",
+    "value": "Image 22"
+  },
+  {
+    "key": 23,
+    "imgsrc": "Epoch_23_24of72.jpg",
+    "text": "Image 23",
+    "value": "Image 23"
+  },
+  {
+    "key": 24,
+    "imgsrc": "Epoch_24_22of72.jpg",
+    "text": "Image 24",
+    "value": "Image 24"
+  },
+  {
+    "key": 25,
+    "imgsrc": "Epoch_25_20of72.jpg",
+    "text": "Image 25",
+    "value": "Image 25"
+  },
+  {
+    "key": 26,
+    "imgsrc": "Epoch_26_18of72.jpg",
+    "text": "Image 26",
+    "value": "Image 26"
+  },
+  {
+    "key": 27,
+    "imgsrc": "Epoch_27_16of72.jpg",
+    "text": "Image 27",
+    "value": "Image 27"
+  },
+  {
+    "key": 28,
+    "imgsrc": "Epoch_28_14of72.jpg",
+    "text": "Image 28",
+    "value": "Image 28"
+  },
+  {
+    "key": 29,
+    "imgsrc": "Epoch_29_12of72.jpg",
+    "text": "Image 29",
+    "value": "Image 29"
+  },
+  {
+    "key": 30,
+    "imgsrc": "Epoch_30_10of72.jpg",
+    "text": "Image 30",
+    "value": "Image 30"
+  },
+  {
+    "key": 31,
+    "imgsrc": "Epoch_31_8of72.jpg",
+    "text": "Image 31",
+    "value": "Image 31"
+  },
+  {
+    "key": 32,
+    "imgsrc": "Epoch_32_6of72.jpg",
+    "text": "Image 32",
+    "value": "Image 32"
+  },
+  {
+    "key": 33,
+    "imgsrc": "Epoch_33_4of72.jpg",
+    "text": "Image 33",
+    "value": "Image 33"
+  },
+  {
+    "key": 34,
+    "imgsrc": "Epoch_34_72of72.jpg",
+    "text": "Image 34",
+    "value": "Image 34"
+  },
+  {
+    "key": 35,
+    "imgsrc": "Epoch_35_70of72.jpg",
+    "text": "Image 35",
+    "value": "Image 35"
+  },
+  {
+    "key": 36,
+    "imgsrc": "Epoch_36_68of72.jpg",
+    "text": "Image 36",
+    "value": "Image 36"
+  },
+  {
+    "key": 37,
+    "imgsrc": "Epoch_37_66of72.jpg",
+    "text": "Image 37",
+    "value": "Image 37"
+  },
+  {
+    "key": 38,
+    "imgsrc": "Epoch_38_64of72.jpg",
+    "text": "Image 38",
+    "value": "Image 38"
+  },
+  {
+    "key": 39,
+    "imgsrc": "Epoch_39_62of72.jpg",
+    "text": "Image 39",
+    "value": "Image 39"
+  },
+  {
+    "key": 40,
+    "imgsrc": "Epoch_40_60of72.jpg",
+    "text": "Image 40",
+    "value": "Image 40"
+  },
+  {
+    "key": 41,
+    "imgsrc": "Epoch_41_58of72.jpg",
+    "text": "Image 41",
+    "value": "Image 41"
+  },
+  {
+    "key": 42,
+    "imgsrc": "Epoch_42_56of72.jpg",
+    "text": "Image 42",
+    "value": "Image 42"
+  },
+  {
+    "key": 43,
+    "imgsrc": "Epoch_43_54of72.jpg",
+    "text": "Image 43",
+    "value": "Image 43"
+  },
+  {
+    "key": 44,
+    "imgsrc": "Epoch_44_52of72.jpg",
+    "text": "Image 44",
+    "value": "Image 44"
+  },
+  {
+    "key": 45,
+    "imgsrc": "Epoch_45_50of72.jpg",
+    "text": "Image 45",
+    "value": "Image 45"
+  },
+  {
+    "key": 46,
+    "imgsrc": "Epoch_46_48of72.jpg",
+    "text": "Image 46",
+    "value": "Image 46"
+  },
+  {
+    "key": 47,
+    "imgsrc": "Epoch_47_46of72.jpg",
+    "text": "Image 47",
+    "value": "Image 47"
+  },
+  {
+    "key": 48,
+    "imgsrc": "Epoch_48_44of72.jpg",
+    "text": "Image 48",
+    "value": "Image 48"
+  },
+  {
+    "key": 49,
+    "imgsrc": "Epoch_49_42of72.jpg",
+    "text": "Image 49",
+    "value": "Image 49"
+  },
+  {
+    "key": 50,
+    "imgsrc": "Epoch_50_40of72.jpg",
+    "text": "Image 50",
+    "value": "Image 50"
+  },
+  {
+    "key": 51,
+    "imgsrc": "Epoch_51_38of72.jpg",
+    "text": "Image 51",
+    "value": "Image 51"
+  },
+  {
+    "key": 52,
+    "imgsrc": "Epoch_52_36of72.jpg",
+    "text": "Image 52",
+    "value": "Image 52"
+  },
+  {
+    "key": 53,
+    "imgsrc": "Epoch_53_34of72.jpg",
+    "text": "Image 53",
+    "value": "Image 53"
+  },
+  {
+    "key": 54,
+    "imgsrc": "Epoch_54_32of72.jpg",
+    "text": "Image 54",
+    "value": "Image 54"
+  },
+  {
+    "key": 55,
+    "imgsrc": "Epoch_55_30of72.jpg",
+    "text": "Image 55",
+    "value": "Image 55"
+  },
+  {
+    "key": 56,
+    "imgsrc": "Epoch_56_28of72.jpg",
+    "text": "Image 56",
+    "value": "Image 56"
+  },
+  {
+    "key": 57,
+    "imgsrc": "Epoch_57_26of72.jpg",
+    "text": "Image 57",
+    "value": "Image 57"
+  },
+  {
+    "key": 58,
+    "imgsrc": "Epoch_58_24of72.jpg",
+    "text": "Image 58",
+    "value": "Image 58"
+  },
+  {
+    "key": 59,
+    "imgsrc": "Epoch_59_22of72.jpg",
+    "text": "Image 59",
+    "value": "Image 59"
+  },
+  {
+    "key": 60,
+    "imgsrc": "Epoch_60_20of72.jpg",
+    "text": "Image 60",
+    "value": "Image 60"
+  },
+  {
+    "key": 61,
+    "imgsrc": "Epoch_61_18of72.jpg",
+    "text": "Image 61",
+    "value": "Image 61"
+  },
+  {
+    "key": 62,
+    "imgsrc": "Epoch_62_16of72.jpg",
+    "text": "Image 62",
+    "value": "Image 62"
+  },
+  {
+    "key": 63,
+    "imgsrc": "Epoch_63_14of72.jpg",
+    "text": "Image 63",
+    "value": "Image 63"
+  },
+  {
+    "key": 64,
+    "imgsrc": "Epoch_64_12of72.jpg",
+    "text": "Image 64",
+    "value": "Image 64"
+  },
+  {
+    "key": 65,
+    "imgsrc": "Epoch_65_10of72.jpg",
+    "text": "Image 65",
+    "value": "Image 65"
+  },
+  {
+    "key": 66,
+    "imgsrc": "Epoch_66_8of72.jpg",
+    "text": "Image 66",
+    "value": "Image 66"
+  },
+  {
+    "key": 67,
+    "imgsrc": "Epoch_67_6of72.jpg",
+    "text": "Image 67",
+    "value": "Image 67"
+  },
+  {
+    "key": 68,
+    "imgsrc": "Epoch_68_4of72.jpg",
+    "text": "Image 68",
+    "value": "Image 68"
+  },
+  {
+    "key": 69,
+    "imgsrc": "Epoch_69_72of72.jpg",
+    "text": "Image 69",
+    "value": "Image 69"
+  },
+  {
+    "key": 70,
+    "imgsrc": "Epoch_70_70of72.jpg",
+    "text": "Image 70",
+    "value": "Image 70"
+  },
+  {
+    "key": 71,
+    "imgsrc": "Epoch_71_68of72.jpg",
+    "text": "Image 71",
+    "value": "Image 71"
+  },
+  {
+    "key": 72,
+    "imgsrc": "Epoch_72_66of72.jpg",
+    "text": "Image 72",
+    "value": "Image 72"
+  },
+  {
+    "key": 73,
+    "imgsrc": "Epoch_73_64of72.jpg",
+    "text": "Image 73",
+    "value": "Image 73"
+  },
+  {
+    "key": 74,
+    "imgsrc": "Epoch_74_62of72.jpg",
+    "text": "Image 74",
+    "value": "Image 74"
+  },
+  {
+    "key": 75,
+    "imgsrc": "Epoch_75_60of72.jpg",
+    "text": "Image 75",
+    "value": "Image 75"
+  },
+  {
+    "key": 76,
+    "imgsrc": "Epoch_76_58of72.jpg",
+    "text": "Image 76",
+    "value": "Image 76"
+  },
+  {
+    "key": 77,
+    "imgsrc": "Epoch_77_56of72.jpg",
+    "text": "Image 77",
+    "value": "Image 77"
+  },
+  {
+    "key": 78,
+    "imgsrc": "Epoch_78_54of72.jpg",
+    "text": "Image 78",
+    "value": "Image 78"
+  },
+  {
+    "key": 79,
+    "imgsrc": "Epoch_79_52of72.jpg",
+    "text": "Image 79",
+    "value": "Image 79"
+  },
+  {
+    "key": 80,
+    "imgsrc": "Epoch_80_50of72.jpg",
+    "text": "Image 80",
+    "value": "Image 80"
+  },
+  {
+    "key": 81,
+    "imgsrc": "Epoch_81_48of72.jpg",
+    "text": "Image 81",
+    "value": "Image 81"
+  },
+  {
+    "key": 82,
+    "imgsrc": "Epoch_82_46of72.jpg",
+    "text": "Image 82",
+    "value": "Image 82"
+  },
+  {
+    "key": 83,
+    "imgsrc": "Epoch_83_44of72.jpg",
+    "text": "Image 83",
+    "value": "Image 83"
+  },
+  {
+    "key": 84,
+    "imgsrc": "Epoch_84_42of72.jpg",
+    "text": "Image 84",
+    "value": "Image 84"
+  },
+  {
+    "key": 85,
+    "imgsrc": "Epoch_85_40of72.jpg",
+    "text": "Image 85",
+    "value": "Image 85"
+  },
+  {
+    "key": 86,
+    "imgsrc": "Epoch_86_38of72.jpg",
+    "text": "Image 86",
+    "value": "Image 86"
+  },
+  {
+    "key": 87,
+    "imgsrc": "Epoch_87_36of72.jpg",
+    "text": "Image 87",
+    "value": "Image 87"
+  },
+  {
+    "key": 88,
+    "imgsrc": "Epoch_88_34of72.jpg",
+    "text": "Image 88",
+    "value": "Image 88"
+  },
+  {
+    "key": 89,
+    "imgsrc": "Epoch_89_32of72.jpg",
+    "text": "Image 89",
+    "value": "Image 89"
+  },
+  {
+    "key": 90,
+    "imgsrc": "Epoch_90_30of72.jpg",
+    "text": "Image 90",
+    "value": "Image 90"
+  },
+  {
+    "key": 91,
+    "imgsrc": "Epoch_91_28of72.jpg",
+    "text": "Image 91",
+    "value": "Image 91"
+  },
+  {
+    "key": 92,
+    "imgsrc": "Epoch_92_26of72.jpg",
+    "text": "Image 92",
+    "value": "Image 92"
+  },
+  {
+    "key": 93,
+    "imgsrc": "Epoch_93_24of72.jpg",
+    "text": "Image 93",
+    "value": "Image 93"
+  },
+  {
+    "key": 94,
+    "imgsrc": "Epoch_94_22of72.jpg",
+    "text": "Image 94",
+    "value": "Image 94"
+  },
+  {
+    "key": 95,
+    "imgsrc": "Epoch_95_20of72.jpg",
+    "text": "Image 95",
+    "value": "Image 95"
+  },
+  {
+    "key": 96,
+    "imgsrc": "Epoch_96_18of72.jpg",
+    "text": "Image 96",
+    "value": "Image 96"
+  },
+  {
+    "key": 97,
+    "imgsrc": "Epoch_97_16of72.jpg",
+    "text": "Image 97",
+    "value": "Image 97"
+  },
+  {
+    "key": 98,
+    "imgsrc": "Epoch_98_14of72.jpg",
+    "text": "Image 98",
+    "value": "Image 98"
+  },
+  {
+    "key": 99,
+    "imgsrc": "Epoch_99_12of72.jpg",
+    "text": "Image 99",
+    "value": "Image 99"
+  },
+  {
+    "key": 100,
+    "imgsrc": "Epoch_100_10of72.jpg",
+    "text": "Image 100",
+    "value": "Image 100"
+  },
+  {
+    "key": 101,
+    "imgsrc": "Epoch_101_8of72.jpg",
+    "text": "Image 101",
+    "value": "Image 101"
+  },
+  {
+    "key": 102,
+    "imgsrc": "Epoch_102_6of72.jpg",
+    "text": "Image 102",
+    "value": "Image 102"
+  },
+  {
+    "key": 103,
+    "imgsrc": "Epoch_103_4of72.jpg",
+    "text": "Image 103",
+    "value": "Image 103"
+  },
+  {
+    "key": 104,
+    "imgsrc": "Epoch_104_72of72.jpg",
+    "text": "Image 104",
+    "value": "Image 104"
+  },
+  {
+    "key": 105,
+    "imgsrc": "Epoch_105_70of72.jpg",
+    "text": "Image 105",
+    "value": "Image 105"
+  },
+  {
+    "key": 106,
+    "imgsrc": "Epoch_106_68of72.jpg",
+    "text": "Image 106",
+    "value": "Image 106"
+  },
+  {
+    "key": 107,
+    "imgsrc": "Epoch_107_66of72.jpg",
+    "text": "Image 107",
+    "value": "Image 107"
+  },
+  {
+    "key": 108,
+    "imgsrc": "Epoch_108_64of72.jpg",
+    "text": "Image 108",
+    "value": "Image 108"
+  },
+  {
+    "key": 109,
+    "imgsrc": "Epoch_109_62of72.jpg",
+    "text": "Image 109",
+    "value": "Image 109"
+  },
+  {
+    "key": 110,
+    "imgsrc": "Epoch_110_60of72.jpg",
+    "text": "Image 110",
+    "value": "Image 110"
+  },
+  {
+    "key": 111,
+    "imgsrc": "Epoch_111_58of72.jpg",
+    "text": "Image 111",
+    "value": "Image 111"
+  },
+  {
+    "key": 112,
+    "imgsrc": "Epoch_112_56of72.jpg",
+    "text": "Image 112",
+    "value": "Image 112"
+  },
+  {
+    "key": 113,
+    "imgsrc": "Epoch_113_54of72.jpg",
+    "text": "Image 113",
+    "value": "Image 113"
+  },
+  {
+    "key": 114,
+    "imgsrc": "Epoch_114_52of72.jpg",
+    "text": "Image 114",
+    "value": "Image 114"
+  },
+  {
+    "key": 115,
+    "imgsrc": "Epoch_115_50of72.jpg",
+    "text": "Image 115",
+    "value": "Image 115"
+  },
+  {
+    "key": 116,
+    "imgsrc": "Epoch_116_48of72.jpg",
+    "text": "Image 116",
+    "value": "Image 116"
+  },
+  {
+    "key": 117,
+    "imgsrc": "Epoch_117_46of72.jpg",
+    "text": "Image 117",
+    "value": "Image 117"
+  },
+  {
+    "key": 118,
+    "imgsrc": "Epoch_118_44of72.jpg",
+    "text": "Image 118",
+    "value": "Image 118"
+  },
+  {
+    "key": 119,
+    "imgsrc": "Epoch_119_42of72.jpg",
+    "text": "Image 119",
+    "value": "Image 119"
+  },
+  {
+    "key": 120,
+    "imgsrc": "Epoch_120_40of72.jpg",
+    "text": "Image 120",
+    "value": "Image 120"
+  },
+  {
+    "key": 121,
+    "imgsrc": "Epoch_121_38of72.jpg",
+    "text": "Image 121",
+    "value": "Image 121"
+  },
+  {
+    "key": 122,
+    "imgsrc": "Epoch_122_36of72.jpg",
+    "text": "Image 122",
+    "value": "Image 122"
+  },
+  {
+    "key": 123,
+    "imgsrc": "Epoch_123_34of72.jpg",
+    "text": "Image 123",
+    "value": "Image 123"
+  },
+  {
+    "key": 124,
+    "imgsrc": "Epoch_124_32of72.jpg",
+    "text": "Image 124",
+    "value": "Image 124"
+  },
+  {
+    "key": 125,
+    "imgsrc": "Epoch_125_30of72.jpg",
+    "text": "Image 125",
+    "value": "Image 125"
+  },
+  {
+    "key": 126,
+    "imgsrc": "Epoch_126_28of72.jpg",
+    "text": "Image 126",
+    "value": "Image 126"
+  },
+  {
+    "key": 127,
+    "imgsrc": "Epoch_127_26of72.jpg",
+    "text": "Image 127",
+    "value": "Image 127"
+  },
+  {
+    "key": 128,
+    "imgsrc": "Epoch_128_24of72.jpg",
+    "text": "Image 128",
+    "value": "Image 128"
+  },
+  {
+    "key": 129,
+    "imgsrc": "Epoch_129_22of72.jpg",
+    "text": "Image 129",
+    "value": "Image 129"
+  },
+  {
+    "key": 130,
+    "imgsrc": "Epoch_130_20of72.jpg",
+    "text": "Image 130",
+    "value": "Image 130"
+  },
+  {
+    "key": 131,
+    "imgsrc": "Epoch_131_18of72.jpg",
+    "text": "Image 131",
+    "value": "Image 131"
+  },
+  {
+    "key": 132,
+    "imgsrc": "Epoch_132_16of72.jpg",
+    "text": "Image 132",
+    "value": "Image 132"
+  },
+  {
+    "key": 133,
+    "imgsrc": "Epoch_133_14of72.jpg",
+    "text": "Image 133",
+    "value": "Image 133"
+  },
+  {
+    "key": 134,
+    "imgsrc": "Epoch_134_12of72.jpg",
+    "text": "Image 134",
+    "value": "Image 134"
+  },
+  {
+    "key": 135,
+    "imgsrc": "Epoch_135_10of72.jpg",
+    "text": "Image 135",
+    "value": "Image 135"
+  },
+  {
+    "key": 136,
+    "imgsrc": "Epoch_136_8of72.jpg",
+    "text": "Image 136",
+    "value": "Image 136"
+  },
+  {
+    "key": 137,
+    "imgsrc": "Epoch_137_6of72.jpg",
+    "text": "Image 137",
+    "value": "Image 137"
+  },
+  {
+    "key": 138,
+    "imgsrc": "Epoch_138_4of72.jpg",
+    "text": "Image 138",
+    "value": "Image 138"
+  },
+  {
+    "key": 139,
+    "imgsrc": "Epoch_139_72of72.jpg",
+    "text": "Image 139",
+    "value": "Image 139"
+  },
+  {
+    "key": 140,
+    "imgsrc": "Epoch_140_70of72.jpg",
+    "text": "Image 140",
+    "value": "Image 140"
+  },
+  {
+    "key": 141,
+    "imgsrc": "Epoch_141_68of72.jpg",
+    "text": "Image 141",
+    "value": "Image 141"
+  },
+  {
+    "key": 142,
+    "imgsrc": "Epoch_142_66of72.jpg",
+    "text": "Image 142",
+    "value": "Image 142"
+  },
+  {
+    "key": 143,
+    "imgsrc": "Epoch_143_64of72.jpg",
+    "text": "Image 143",
+    "value": "Image 143"
+  },
+  {
+    "key": 144,
+    "imgsrc": "Epoch_144_62of72.jpg",
+    "text": "Image 144",
+    "value": "Image 144"
+  },
+  {
+    "key": 145,
+    "imgsrc": "Epoch_145_60of72.jpg",
+    "text": "Image 145",
+    "value": "Image 145"
+  },
+  {
+    "key": 146,
+    "imgsrc": "Epoch_146_58of72.jpg",
+    "text": "Image 146",
+    "value": "Image 146"
+  },
+  {
+    "key": 147,
+    "imgsrc": "Epoch_147_56of72.jpg",
+    "text": "Image 147",
+    "value": "Image 147"
+  },
+  {
+    "key": 148,
+    "imgsrc": "Epoch_148_54of72.jpg",
+    "text": "Image 148",
+    "value": "Image 148"
+  },
+  {
+    "key": 149,
+    "imgsrc": "Epoch_149_52of72.jpg",
+    "text": "Image 149",
+    "value": "Image 149"
+  },
+  {
+    "key": 150,
+    "imgsrc": "Epoch_150_50of72.jpg",
+    "text": "Image 150",
+    "value": "Image 150"
+  },
+  {
+    "key": 151,
+    "imgsrc": "Epoch_151_48of72.jpg",
+    "text": "Image 151",
+    "value": "Image 151"
+  },
+  {
+    "key": 152,
+    "imgsrc": "Epoch_152_46of72.jpg",
+    "text": "Image 152",
+    "value": "Image 152"
+  },
+  {
+    "key": 153,
+    "imgsrc": "Epoch_153_44of72.jpg",
+    "text": "Image 153",
+    "value": "Image 153"
+  },
+  {
+    "key": 154,
+    "imgsrc": "Epoch_154_42of72.jpg",
+    "text": "Image 154",
+    "value": "Image 154"
+  },
+  {
+    "key": 155,
+    "imgsrc": "Epoch_155_40of72.jpg",
+    "text": "Image 155",
+    "value": "Image 155"
+  },
+  {
+    "key": 156,
+    "imgsrc": "Epoch_156_38of72.jpg",
+    "text": "Image 156",
+    "value": "Image 156"
+  },
+  {
+    "key": 157,
+    "imgsrc": "Epoch_157_36of72.jpg",
+    "text": "Image 157",
+    "value": "Image 157"
+  },
+  {
+    "key": 158,
+    "imgsrc": "Epoch_158_34of72.jpg",
+    "text": "Image 158",
+    "value": "Image 158"
+  },
+  {
+    "key": 159,
+    "imgsrc": "Epoch_159_32of72.jpg",
+    "text": "Image 159",
+    "value": "Image 159"
+  },
+  {
+    "key": 160,
+    "imgsrc": "Epoch_160_30of72.jpg",
+    "text": "Image 160",
+    "value": "Image 160"
+  },
+  {
+    "key": 161,
+    "imgsrc": "Epoch_161_28of72.jpg",
+    "text": "Image 161",
+    "value": "Image 161"
+  },
+  {
+    "key": 162,
+    "imgsrc": "Epoch_162_26of72.jpg",
+    "text": "Image 162",
+    "value": "Image 162"
+  },
+  {
+    "key": 163,
+    "imgsrc": "Epoch_163_24of72.jpg",
+    "text": "Image 163",
+    "value": "Image 163"
+  },
+  {
+    "key": 164,
+    "imgsrc": "Epoch_164_22of72.jpg",
+    "text": "Image 164",
+    "value": "Image 164"
+  },
+  {
+    "key": 165,
+    "imgsrc": "Epoch_165_20of72.jpg",
+    "text": "Image 165",
+    "value": "Image 165"
+  },
+  {
+    "key": 166,
+    "imgsrc": "Epoch_166_18of72.jpg",
+    "text": "Image 166",
+    "value": "Image 166"
+  },
+  {
+    "key": 167,
+    "imgsrc": "Epoch_167_16of72.jpg",
+    "text": "Image 167",
+    "value": "Image 167"
+  },
+  {
+    "key": 168,
+    "imgsrc": "Epoch_168_14of72.jpg",
+    "text": "Image 168",
+    "value": "Image 168"
+  },
+  {
+    "key": 169,
+    "imgsrc": "Epoch_169_12of72.jpg",
+    "text": "Image 169",
+    "value": "Image 169"
+  },
+  {
+    "key": 170,
+    "imgsrc": "Epoch_170_10of72.jpg",
+    "text": "Image 170",
+    "value": "Image 170"
+  },
+  {
+    "key": 171,
+    "imgsrc": "Epoch_171_8of72.jpg",
+    "text": "Image 171",
+    "value": "Image 171"
+  },
+  {
+    "key": 172,
+    "imgsrc": "Epoch_172_6of72.jpg",
+    "text": "Image 172",
+    "value": "Image 172"
+  },
+  {
+    "key": 173,
+    "imgsrc": "Epoch_173_4of72.jpg",
+    "text": "Image 173",
+    "value": "Image 173"
+  },
+  {
+    "key": 174,
+    "imgsrc": "Epoch_174_72of72.jpg",
+    "text": "Image 174",
+    "value": "Image 174"
+  },
+  {
+    "key": 175,
+    "imgsrc": "Epoch_175_70of72.jpg",
+    "text": "Image 175",
+    "value": "Image 175"
+  },
+  {
+    "key": 176,
+    "imgsrc": "Epoch_176_68of72.jpg",
+    "text": "Image 176",
+    "value": "Image 176"
+  },
+  {
+    "key": 177,
+    "imgsrc": "Epoch_177_66of72.jpg",
+    "text": "Image 177",
+    "value": "Image 177"
+  },
+  {
+    "key": 178,
+    "imgsrc": "Epoch_178_64of72.jpg",
+    "text": "Image 178",
+    "value": "Image 178"
+  },
+  {
+    "key": 179,
+    "imgsrc": "Epoch_179_62of72.jpg",
+    "text": "Image 179",
+    "value": "Image 179"
+  },
+  {
+    "key": 180,
+    "imgsrc": "Epoch_180_60of72.jpg",
+    "text": "Image 180",
+    "value": "Image 180"
+  },
+  {
+    "key": 181,
+    "imgsrc": "Epoch_181_58of72.jpg",
+    "text": "Image 181",
+    "value": "Image 181"
+  },
+  {
+    "key": 182,
+    "imgsrc": "Epoch_182_56of72.jpg",
+    "text": "Image 182",
+    "value": "Image 182"
+  },
+  {
+    "key": 183,
+    "imgsrc": "Epoch_183_54of72.jpg",
+    "text": "Image 183",
+    "value": "Image 183"
+  },
+  {
+    "key": 184,
+    "imgsrc": "Epoch_184_52of72.jpg",
+    "text": "Image 184",
+    "value": "Image 184"
+  },
+  {
+    "key": 185,
+    "imgsrc": "Epoch_185_50of72.jpg",
+    "text": "Image 185",
+    "value": "Image 185"
+  },
+  {
+    "key": 186,
+    "imgsrc": "Epoch_186_48of72.jpg",
+    "text": "Image 186",
+    "value": "Image 186"
+  },
+  {
+    "key": 187,
+    "imgsrc": "Epoch_187_46of72.jpg",
+    "text": "Image 187",
+    "value": "Image 187"
+  },
+  {
+    "key": 188,
+    "imgsrc": "Epoch_188_44of72.jpg",
+    "text": "Image 188",
+    "value": "Image 188"
+  },
+  {
+    "key": 189,
+    "imgsrc": "Epoch_189_42of72.jpg",
+    "text": "Image 189",
+    "value": "Image 189"
+  },
+  {
+    "key": 190,
+    "imgsrc": "Epoch_190_40of72.jpg",
+    "text": "Image 190",
+    "value": "Image 190"
+  },
+  {
+    "key": 191,
+    "imgsrc": "Epoch_191_38of72.jpg",
+    "text": "Image 191",
+    "value": "Image 191"
+  },
+  {
+    "key": 192,
+    "imgsrc": "Epoch_192_36of72.jpg",
+    "text": "Image 192",
+    "value": "Image 192"
+  },
+  {
+    "key": 193,
+    "imgsrc": "Epoch_193_34of72.jpg",
+    "text": "Image 193",
+    "value": "Image 193"
+  },
+  {
+    "key": 194,
+    "imgsrc": "Epoch_194_32of72.jpg",
+    "text": "Image 194",
+    "value": "Image 194"
+  },
+  {
+    "key": 195,
+    "imgsrc": "Epoch_195_30of72.jpg",
+    "text": "Image 195",
+    "value": "Image 195"
+  },
+  {
+    "key": 196,
+    "imgsrc": "Epoch_196_28of72.jpg",
+    "text": "Image 196",
+    "value": "Image 196"
+  },
+  {
+    "key": 197,
+    "imgsrc": "Epoch_197_26of72.jpg",
+    "text": "Image 197",
+    "value": "Image 197"
+  },
+  {
+    "key": 198,
+    "imgsrc": "Epoch_198_24of72.jpg",
+    "text": "Image 198",
+    "value": "Image 198"
+  },
+  {
+    "key": 199,
+    "imgsrc": "Epoch_199_22of72.jpg",
+    "text": "Image 199",
+    "value": "Image 199"
+  },
+  {
+    "key": 200,
+    "imgsrc": "Epoch_200_20of72.jpg",
+    "text": "Image 200",
+    "value": "Image 200"
+  },
+  {
+    "key": 201,
+    "imgsrc": "Epoch_201_18of72.jpg",
+    "text": "Image 201",
+    "value": "Image 201"
+  },
+  {
+    "key": 202,
+    "imgsrc": "Epoch_202_16of72.jpg",
+    "text": "Image 202",
+    "value": "Image 202"
+  },
+  {
+    "key": 203,
+    "imgsrc": "Epoch_203_14of72.jpg",
+    "text": "Image 203",
+    "value": "Image 203"
+  },
+  {
+    "key": 204,
+    "imgsrc": "Epoch_204_12of72.jpg",
+    "text": "Image 204",
+    "value": "Image 204"
+  },
+  {
+    "key": 205,
+    "imgsrc": "Epoch_205_10of72.jpg",
+    "text": "Image 205",
+    "value": "Image 205"
+  },
+  {
+    "key": 206,
+    "imgsrc": "Epoch_206_8of72.jpg",
+    "text": "Image 206",
+    "value": "Image 206"
+  },
+  {
+    "key": 207,
+    "imgsrc": "Epoch_207_6of72.jpg",
+    "text": "Image 207",
+    "value": "Image 207"
+  },
+  {
+    "key": 208,
+    "imgsrc": "Epoch_208_4of72.jpg",
+    "text": "Image 208",
+    "value": "Image 208"
+  },
+  {
+    "key": 209,
+    "imgsrc": "Epoch_209_72of72.jpg",
+    "text": "Image 209",
+    "value": "Image 209"
+  },
+  {
+    "key": 210,
+    "imgsrc": "Epoch_210_70of72.jpg",
+    "text": "Image 210",
+    "value": "Image 210"
+  },
+  {
+    "key": 211,
+    "imgsrc": "Epoch_211_68of72.jpg",
+    "text": "Image 211",
+    "value": "Image 211"
+  },
+  {
+    "key": 212,
+    "imgsrc": "Epoch_212_66of72.jpg",
+    "text": "Image 212",
+    "value": "Image 212"
+  },
+  {
+    "key": 213,
+    "imgsrc": "Epoch_213_64of72.jpg",
+    "text": "Image 213",
+    "value": "Image 213"
+  },
+  {
+    "key": 214,
+    "imgsrc": "Epoch_214_62of72.jpg",
+    "text": "Image 214",
+    "value": "Image 214"
+  },
+  {
+    "key": 215,
+    "imgsrc": "Epoch_215_60of72.jpg",
+    "text": "Image 215",
+    "value": "Image 215"
+  },
+  {
+    "key": 216,
+    "imgsrc": "Epoch_216_58of72.jpg",
+    "text": "Image 216",
+    "value": "Image 216"
+  },
+  {
+    "key": 217,
+    "imgsrc": "Epoch_217_56of72.jpg",
+    "text": "Image 217",
+    "value": "Image 217"
+  },
+  {
+    "key": 218,
+    "imgsrc": "Epoch_218_54of72.jpg",
+    "text": "Image 218",
+    "value": "Image 218"
+  },
+  {
+    "key": 219,
+    "imgsrc": "Epoch_219_52of72.jpg",
+    "text": "Image 219",
+    "value": "Image 219"
+  }
+]
